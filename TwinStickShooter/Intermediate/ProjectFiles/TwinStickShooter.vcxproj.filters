@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TwinStickShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CBACA738-2C38-44AF-9392-36E72419BDEB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TwinStickShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TwinStickShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BCB60F67-6885-4CD7-971C-524ABDADB4E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{5AF64F17-426F-41A3-BDA0-79292BA8DE6A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{21DD3106-AFF1-486F-A2F4-E3418031AB1D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{D03DD768-8544-4990-80AE-706754399CAC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{CB580608-1B4D-43DB-81B8-B73B9CA308A1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{68FAA43F-5402-4C58-8AEB-2981AB410450}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{1AC78EB9-5030-4DEC-95F7-96E364390F6A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{DC0E290A-0105-496F-9EDF-CE5BC3803D1A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{992C15A2-AF19-4130-9C43-0B867EA31DF6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\TwinStickShooter">
+      <UniqueIdentifier>{81A842AC-14C7-44B6-83FB-6DD2C16707E5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TwinStickShooter\BaseCharacter.cpp">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickShooter\BaseCharacter.h">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TwinStickShooter\TwinStickShooter.Build.cs">
+      <Filter>Source\TwinStickShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TwinStickShooter\TwinStickShooter.cpp">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickShooter\TwinStickShooter.h">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

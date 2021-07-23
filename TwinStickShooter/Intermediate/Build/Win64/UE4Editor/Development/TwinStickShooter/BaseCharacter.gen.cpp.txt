@@ -1,0 +1,9 @@
+D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\Definitions.TwinStickShooter.h
+D:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\github\UnrealExampleTwinShooter\TwinStickShooter\Source\TwinStickShooter/BaseCharacter.h
+D:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+d:\github\unrealexampletwinshooter\twinstickshooter\intermediate\build\win64\ue4editor\inc\twinstickshooter\BaseCharacter.generated.h
