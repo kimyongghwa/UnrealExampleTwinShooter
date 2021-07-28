@@ -20,10 +20,10 @@ public:
 	virtual void CalculateDead();
 
 	UFUNCTION(BlueprintCallable, Category = "Base Character")
-		virtaul void CalculateHealth(float delta);
+		virtual void CalculateHealth(float delta);
 
 #if WITH_EDITOR
-	virtual void PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent)
+	virtual void PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent) //에디터에서 프로퍼티에 변화 주면 특정 코드 실행
 		override;
 #endif
 

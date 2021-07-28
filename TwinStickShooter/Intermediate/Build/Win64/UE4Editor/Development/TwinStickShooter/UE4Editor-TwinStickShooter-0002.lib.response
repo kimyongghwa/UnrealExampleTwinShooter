@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TwinStickShooter-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TestClass.cpp.obj"
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TwinStickShooter.cpp.obj"
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.gen.cpp.obj"
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TwinStickShooter.init.gen.cpp.obj"
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\Default.rc2.res"
+/OUT:"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_TwinStickShooter

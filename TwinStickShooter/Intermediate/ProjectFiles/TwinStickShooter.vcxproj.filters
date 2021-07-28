@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TwinStickShooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CBACA738-2C38-44AF-9392-36E72419BDEB}</UniqueIdentifier>
+      <UniqueIdentifier>{4B4895E5-1A86-433A-9EC1-412098448009}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TwinStickShooter.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{BCB60F67-6885-4CD7-971C-524ABDADB4E5}</UniqueIdentifier>
+      <UniqueIdentifier>{63DA8B91-7054-4C1D-B4A6-240DB77AE519}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,60 +27,66 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{5AF64F17-426F-41A3-BDA0-79292BA8DE6A}</UniqueIdentifier>
+      <UniqueIdentifier>{51786EE6-3B1A-4E77-B780-698B27C97F61}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{21DD3106-AFF1-486F-A2F4-E3418031AB1D}</UniqueIdentifier>
+      <UniqueIdentifier>{B766A2AB-7C7A-414B-A471-B41A6748AD6B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{D03DD768-8544-4990-80AE-706754399CAC}</UniqueIdentifier>
+      <UniqueIdentifier>{C87385A6-C69E-4061-B1AF-B3016B455ECC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{CB580608-1B4D-43DB-81B8-B73B9CA308A1}</UniqueIdentifier>
+      <UniqueIdentifier>{6D342385-7FFF-4511-BA5F-4D0A42733431}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{68FAA43F-5402-4C58-8AEB-2981AB410450}</UniqueIdentifier>
+      <UniqueIdentifier>{283557F5-A504-4997-863B-A620134F0FEC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{1AC78EB9-5030-4DEC-95F7-96E364390F6A}</UniqueIdentifier>
+      <UniqueIdentifier>{B77A9AF3-656D-46F2-9254-12A5EC89EF51}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{DC0E290A-0105-496F-9EDF-CE5BC3803D1A}</UniqueIdentifier>
+      <UniqueIdentifier>{354A23E7-7555-44C2-88DE-7958DE59AF7C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{992C15A2-AF19-4130-9C43-0B867EA31DF6}</UniqueIdentifier>
+      <UniqueIdentifier>{27B7D00D-0165-4877-BA72-08943D257DD9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\TwinStickShooter">
-      <UniqueIdentifier>{81A842AC-14C7-44B6-83FB-6DD2C16707E5}</UniqueIdentifier>
+      <UniqueIdentifier>{3C6CB2E5-F147-413A-9A5D-993464A11C5F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TwinStickShooter\BaseCharacter.cpp">
       <Filter>Source\TwinStickShooter</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TwinStickShooter\BaseCharacter.h">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TwinStickShooter\TestClass.cpp">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickShooter\TestClass.h">
       <Filter>Source\TwinStickShooter</Filter>
     </ClInclude>
     <None Include="..\..\Source\TwinStickShooter\TwinStickShooter.Build.cs">

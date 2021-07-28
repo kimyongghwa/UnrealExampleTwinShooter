@@ -8,6 +8,7 @@
 /NODEFAULTLIB
 "D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h.obj"
 "D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
+"D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TestClass.cpp.obj"
 "D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TwinStickShooter.cpp.obj"
 "D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.gen.cpp.obj"
 "D:\github\UnrealExampleTwinShooter\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TwinStickShooter.init.gen.cpp.obj"

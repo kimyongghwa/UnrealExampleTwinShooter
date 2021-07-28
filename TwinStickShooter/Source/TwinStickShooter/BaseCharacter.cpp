@@ -1,6 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "BaseCharacter.h"
 
 // Sets default values
@@ -32,3 +31,24 @@ void ABaseCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 
 }
 
+void ABaseCharacter::CalculateHealth(float Delta){
+	Health += Delta;
+	CalculateDead();
+}
+
+void ABaseCharacter::CalculateDead(){
+	if(Health<=0)
+		isDead= true;
+	else
+		isDead= false;
+}
+
+#if WITH_EDITOR
+	void ABaseCharacter::PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent){
+		isDead=false;
+		Health=100;
+
+		Super::PostEditChangeProperty(PropertyChangedEvent);
+		CalculateDead();
+	}
+#endif
